@@ -1,0 +1,16 @@
+{
+  "name": "date_generator",
+  "version": "1.0.0",
+  "description": "A simple customizable date generator with javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "date",
+    "Date",
+    "date_generator"
+  ],
+  "author": "Brayan Steven Garcia Millan",
+  "license": "ISC"
+}
